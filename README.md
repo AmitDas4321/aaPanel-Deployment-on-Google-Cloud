@@ -60,6 +60,28 @@ Before starting, make sure you have:
 
 Google Cloud's Always Free program includes resources that can be used without monthly charges if you stay within the limits.
 
+## 🌍 Free Tier Eligible Regions
+
+To qualify for Google Cloud's Always Free e2-micro VM, deploy your instance in one of these supported US regions:
+
+| Region | Location |
+|----------|----------|
+| us-west1 | Oregon |
+| us-central1 | Iowa |
+| us-east1 | South Carolina |
+
+## 💸 Why Use the Always Free Tier?
+
+- No monthly VPS hosting cost.
+- Perfect for learning Linux, aaPanel, and server management.
+- Suitable for personal websites, portfolios, blogs, and small APIs.
+- Backed by Google's reliable cloud infrastructure.
+- Easy to upgrade when your project grows.
+- Includes a free e2-micro VM, storage allowance, and network usage limits.
+- Great for testing, development, and small production workloads.
+
+> ⚠️ To remain within the free tier, use an e2-micro instance and avoid additional paid resources.
+
 Recommended configuration:
 
 | Resource         | Value                    |
